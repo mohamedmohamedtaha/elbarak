@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: com.hwangjr.rxbus:rxbus:2.0.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a4cb3b02a97fe7e6ab70c0127468f66c/jetified-rxbus-2.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a4cb3b02a97fe7e6ab70c0127468f66c/jetified-rxbus-2.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0a4ab90bd964b475b41dd2c174a969c9/jetified-rxbus-2.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/cb6dcd7b252aba18a18dbd512815664a/jetified-rxbus-2.0.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/cb6dcd7b252aba18a18dbd512815664a/jetified-rxbus-2.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/cb6dcd7b252aba18a18dbd512815664a/jetified-rxbus-2.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.hwangjr.rxbus/rxbus/2.0.0/746253b614d89f52eb9bcd3bbce171835c32af2e/rxbus-2.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.hwangjr.rxbus/rxbus/2.0.0/9e4039cc9cc17ed00bf8e720ee4ce610cc9a4f50/rxbus-2.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

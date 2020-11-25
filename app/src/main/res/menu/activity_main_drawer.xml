@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_playlist"
+            android:icon="@drawable/playlist"
+            android:title="@string/lbl_playlist" />
+        <item
+            android:id="@+id/nav_downloadedplaylist"
+            android:icon="@drawable/dwnl_playlist"
+            android:title="@string/lbl_downloaded_playlist" />
+        <item
+            android:id="@+id/nav_favoriteplaylist"
+            android:icon="@drawable/fav_playlist"
+            android:title="@string/lbl_favorite_playlist" />
+
+        <item
+            android:id="@+id/nav_shareapp"
+            android:icon="@drawable/ic_menu_share"
+            android:title="@string/lbl_share_app" />
+        <item
+            android:id="@+id/nav_rateapp"
+            android:icon="@android:drawable/btn_star_big_on"
+            android:title="@string/lbl_rate_app" />
+
+
+        <item
+            android:id="@+id/nav_language"
+            android:icon="@drawable/language"
+            android:title="@string/lbl_language" />
+
+        <!--<item
+            android:id="@+id/nav_notification"
+            android:icon="@drawable/notification"
+            android:title="@string/noti"
+            app:actionLayout="@layout/row_drawer_notification" />-->
+
+        <!--<item
+            android:id="@+id/nav_exit"
+            android:icon="@drawable/exit"
+            android:title="@string/lbl_exit" />-->
+    </group>
+    <group android:id="@+id/grp2" android:checkableBehavior="single" >
+        <item
+            android:id="@+id/nav_privacy"
+            android:icon="@drawable/privacy"
+            android:title="@string/lbl_privacy_policy" />
+        <item
+            android:id="@+id/nav_about"
+            android:icon="@drawable/info"
+            android:title="@string/lbl_about" />
+        <item
+            android:id="@+id/settings"
+            android:icon="@drawable/gdpr"
+            app:showAsAction="never"
+            android:title="Personal Data Protection"
+            />
+
+    </group>
+
+</menu>

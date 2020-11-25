@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lbl_playlist">Playlist</string>
+    <string name="lbl_downloaded_playlist">Sourates téléchargées</string>
+    <string name="lbl_about">À propos de</string>
+    <string name="lbl_share_app">Partager l\'application</string>
+    <string name="lbl_rate_app">Noter l\'application</string>
+    <string name="lbl_privacy_policy">Politique de confidentialité</string>
+    <string name="msg_no_downloads">Vous n\'avez rien téléchargé</string>
+    <string name="title_playlist">Playliste sourates</string>
+    <string name="title_content">Playliste sourates</string>
+    <string name="title_playlist_downloaded">Sourates téléchargées</string>
+    <string name="lbl_about_title_content">À propos de</string>
+    <string name="msg_share">Écoutez et téléchargez le Coran récité par Mohamad Albarak</string>
+    <string name="msg_privacy_title">Politique de confidentialité</string>
+    <string name="msg_delete_song">Êtes-vous sûr de vouloir supprimer cette sourate ?</string>
+    <string name="msg_song_deleted">Sourate supprimée avec succès</string>
+    <string name="msg_delete_failed">Supprimer a échoué, veuillez réessayer !</string>
+    <string name="content_privacy">"MuslimCharityApps Privacy Policy Tous les utilisateurs qui téléchargent nos applications faites par MuslimCharityApps, accepter les conditions suivantes: MuslimCharityApps est fermement engagé à protéger la vie privée de ses utilisateurs. Nous respectons votre vie privée et ne recueillera pas de renseignements personnels ADS: Nous utilisons des annonces AdMob dans nos applications gratuites. http://www.google.com/ads/admob/ - https://www.google.com/policies/privacy/partners Toutes les annonces sont diffusées en application, les annonces peuvent être des bannières ou interstitiels, vous ne verrez jamais une annonce en dehors de l'application. Nous avons besoin d'autorisations pour accéder à vos informations personnelles sensibles uniquement pour une utilisation directement sur votre telephone et sans ces informations nos applications ne fonctionnent pas avec vous. autorisations: * READ_PHONE_STATE: Vérifiez si le téléphone sonne ou un appel est terminé pour mettre en pause / réactivez le player * ACCESS_NETWORK_STATE: Vérifiez si le mobile est en ligne pour afficher les annonces, la vérification de la nouvelle version de l'application * WRITE_EXTERNAL_STORAGE: utilisé pour stocker téléchargé mp3 Coran. S'il vous plaît ne hésitez pas à nous contacter si vous avez des questions à propos MuslimCharityApps Politique de confidentialité.  MuslimCharityApps muslimcharityapps@gmail.com "</string>
+    <string name="lbl_favorite_playlist">playlist des favoris</string>
+    <string-array name="array_songs">
+        <item>Alfatiha</item>
+        <item>Yusuf </item>
+        <item>Ya Sin </item>
+        <item>As-Saffat</item>
+        <item>Ad-Dukhan</item>
+        <item>Al-Jathiya</item>
+        <item>Qaf</item>
+        <item>Adh-Dhariyat</item>
+        <item>At-Tour</item>
+        <item>An-Najm</item>
+        <item>Al-Qamar</item>
+        <item>Ar-Rahman</item>
+        <item>"Al-Waqi'a"</item>
+        <item>Al-Hadeed</item>
+        <item>Al-Mulk</item>
+        <item>Al-Qalam</item>
+        <item>Al-Haqqa</item>
+        <item>"Al-Ma'aarij"</item>
+        <item>Nouh</item>
+        <item>Al-Jinn</item>
+        <item>Al-Muzzammil</item>
+        <item> Al-Muddaththir </item>
+        <item>Al-Qiyama</item>
+        <item>Al-Insan</item>
+        <item>Al-Mursalat</item>
+        <item>"An-Naba'"</item>
+        <item>"An-Nazi'at"</item>
+        <item>Abasa</item>
+        <item>At-Takweer</item>
+        <item>Al-Infitar</item>
+        <item>Al-Mutaffifeen</item>
+        <item>Al-Inshiqaq</item>
+        <item>Al-Burooj</item>
+        <item>At-Tariq</item>
+        <item>"Al-A'la"</item>
+        <item>Al-Ghashiyah</item>
+        <item>Al-Fajr</item>
+        <item>Al-Balad</item>
+        <item>Ash-Shams</item>
+        <item>Al-Lail</item>
+        <item>Ad-Dhuha</item>
+        <item>Ash-Sharĥ</item>
+        <item>At-Teen</item>
+        <item>Al-Alaq</item>
+        <item>Al-Qadr</item>
+        <item>Al-Bayyina</item>
+        <item>Az-Zalzala</item>
+        <item>Al-Adiyat</item>
+        <item>Al-Qaria</item>
+        <item>At-Takathur</item>
+        <item>Al-Asr</item>
+        <item>Al-Humaza</item>
+        <item>Al-Feel</item>
+        <item>Quraysh</item>
+        <item>"Al-Maa'oun"</item>
+        <item>Al-Kawthar</item>
+        <item>Al-Kafiroun</item>
+        <item>An-Nasr</item>
+        <item>Al-Masad</item>
+        <item>Al-Ikhlas</item>
+        <item>Al-Falaq</item>
+        <item>Al-Nas</item>
+    </string-array>
+
+    <string name="lbl_language">La Langue</string>
+    <string name="lbl_exit">Sortie</string>
+    <string name="title_exit">Sortie</string>
+    <string name="msg_exit">Êtes-vous sûr de vouloir quitter l\'application ?</string>
+    <string name="exit_app">Cliquez à nouveau pour quitter l\'application </string>
+    <string name="lbl_yes">Oui</string>
+    <string name="lbl_no">Non</string>
+    <string name="noti">Notifications</string>
+    <string name="app_name">Mohamad Albarak</string>
+    <string name="msg_cncl">Annuler</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="abt">À propos de</string>
+    <string name="already_download">Vous avez déjà téléchargé Surah, pour l’écouter sélectionner dans « Playlist surahs téléchargée »</string>
+    <string name="down_cancel">Le téléchargement a été annulée</string>
+    <string name="down_ok">La sourate a été téléchargés avec succès</string>
+    <string name="down_progress">Veuillez patienter pendant que le fichier est téléchargé...</string>
+    <string name="downnloadin">Veuillez patienter, téléchargement en cours</string>
+    <string name="msg_schedule_notification">ecouter le saint coran</string>
+    <string name="no_net">La connexion Internet n\'est pas actif !</string>
+    <string name="no_net_msg">La connexion Internet n\'est pas actif ! Voulez-vous l\'activer ?</string>
+    <string name="privacy_title">Politique de confidentialité</string>
+    <string name="stp_repeat">Le mode répétition \\\"OFF\\\"</string>
+    <string name="repeat_active">Le mode répétition \"ON\"</string>
+    <string name="share_phrase">Écoutez et téléchargez le Coran récité par Mohamad Albarak</string>
+    <string name="shuflle_active">Le mode aléatoire \\\"ON\\\"</string>
+    <string name="stp_shuflle">Le mode aléatoire \\\"OFF\\\"</string>
+    <string name="lost_internet">Ne peuvent pas se connecter à Internet, vous ne pouvez ecouter que les sourates téléchargées !</string>
+    <string name="abt_description"> Mohamad Albarak est un grand réciteur égyptien du Coran, il est né le 17 septembre 1917  premier Zu AL Hijja 1335 de l\'hégire dans le village de Shubra Al-Namla à Tanta à la préfecture du Gharbia.
+
+Avant la naissance du Sheikh AL Hussary, son père a quitté la préfecture du Fayoum vers le village de Shubra El Namla où Mohamad Albarak a vu le jour. Son père l\'a inscrit à l\'école coranique à l\'âge de 4 ans afin d\'apprendre le Coran. A l\'âge de 8 ans Cheikh Al Hussary a appris le Coran, puis a intégré l\'Institut religieux de Tanta 4 ans plus tard.
+
+Cheikh Mahmoud Khalil Al Husary a perfectionné la lecture du Coran dans les dix lectures après ses études à Al Azhar.
+Cheikh AL Hussary a commencé à réciter le Coran dans la mosquée de son village et en 1944 il a rejoint la radio égyptienne après avoir présenté une demande et passé un concours de lecture. Sa première récitation a été émise sur les ondes en direct le 16 novembre 1944. La radio égyptienne a gardé la diffusion exclusive de sa récitation du Coran durant 10 ans.
+
+Il a été nommé cheikh du Maqra\'a Sidi Abdul Muta\'al à Tanta, puis il est devenu Muazin de la mosquée Sidi Hamza le 7 août 1948, avant de devenir le réciteur de la mosquée le 10 octobre de la même année.
+
+Cheikh Mohamad Albarak a été désigné par un arrêté ministériel comme superviseur des Maqari\' de la préfecture de Gharbiya.
+
+Le 17 avril 1949, Cheikh AL Hussary est devenu réciteur de la mosquée Sidi Ahmed EL Badaui de Tanta avant d\'être transféré à la mosquée Ahmadi, puis à la mosquée Imam AL Hussein au Caire en 1955.
+
+Cheikh Al Hussary a été le premier à enregistrer le Coran ( Hafs de Assim), ( Warsh de Nafi\'), Qalun, Eddouri et Bassri. Il a aussi été le premier à enregistrer le Mus7af Mualim, et le Mus7af Mufasar.
+
+Mohamad Albarak a récité le Coran aux Nations Unies, au Royal Palace à Londres, à la maison blanche et au Congrès Hall américain.
+
+Cheikh Mahmud Khalil EL Hussary est décédé le lundi 16 Muharam 1401 de l\'hégire, le 24 novembre 1980. </string>
+    <string name="lbl_ok">Ok</string>
+</resources>

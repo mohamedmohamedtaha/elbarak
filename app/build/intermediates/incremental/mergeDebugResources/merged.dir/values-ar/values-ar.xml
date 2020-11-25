@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="array_songs">
+        <item> الفاتحة </item>
+        <item> يوسف </item>
+        <item> يس </item>
+        <item> الصافات</item>
+        <item> الدّخان </item>
+        <item> الجاثية </item>
+        <item> سورة  ق</item>
+        <item> الذاريات </item>
+        <item> الطور </item>
+        <item> النجم </item>
+        <item> القمر</item>
+        <item> الرحمن </item>
+        <item> الواقعة </item>
+        <item> الحديد </item>
+        <item> الملك </item>
+        <item> القلم </item>
+        <item> الحاقة </item>
+        <item> المعارج</item>
+        <item> نوح </item>
+        <item> الجن </item>
+        <item> المزمل </item>
+        <item> المدثر </item>
+        <item> القيامة </item>
+        <item> الإنسان </item>
+        <item> المرسلات </item>
+        <item> النبأ</item>
+        <item> النازعات </item>
+        <item> عبس </item>
+        <item> التكوير </item>
+        <item> الإنفطار</item>
+        <item> المطففين </item>
+        <item> الإنشقاق </item>
+        <item> البروج </item>
+        <item> الطارق</item>
+        <item> الأعلى </item>
+        <item> الغاشية </item>
+        <item> الفجر </item>
+        <item> البلد</item>
+        <item> الشمس </item>
+        <item> الليل </item>
+        <item> الضحى </item>
+        <item> الشرح</item>
+        <item> التين </item>
+        <item> العلق </item>
+        <item> القدر </item>
+        <item> البينة</item>
+        <item> الزلزلة </item>
+        <item> العاديات </item>
+        <item> القارعة </item>
+        <item> التكاثر</item>
+        <item> العصر </item>
+        <item> الهمزة </item>
+        <item> الفيل </item>
+        <item> قريش</item>
+        <item> الماعون </item>
+        <item> الكوثر </item>
+        <item> الكافرون </item>
+        <item> النصر</item>
+        <item> المسد </item>
+        <item> الإخلاص </item>
+        <item> الفلق </item>
+        <item> الناس</item>
+    </string-array>
+    <string msgid="7903180715631665059" name="abc_action_bar_home_description">"التوجه إلى المنزل"</string>
+    <string msgid="6794660482873516081" name="abc_action_bar_up_description">"التنقل إلى أعلى"</string>
+    <string msgid="1155814932213556626" name="abc_action_menu_overflow_description">"خيارات أكثر"</string>
+    <string msgid="2571498368472823490" name="abc_action_mode_done">"تم"</string>
+    <string msgid="3732416590524162402" name="abc_activity_chooser_view_see_all">"عرض الكل"</string>
+    <string msgid="1798588241954930982" name="abc_activitychooserview_choose_application">"اختيار تطبيق"</string>
+    <string msgid="3403923230105792483" name="abc_capital_off">"إيقاف"</string>
+    <string msgid="7831734969929204599" name="abc_capital_on">"تفعيل"</string>
+    <string msgid="5725160506500770567" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="944415252197684443" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="129742188101734366" name="abc_menu_delete_shortcut_label">"حذف"</string>
+    <string msgid="6840127756824236027" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="4974283687810130415" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="8046416353848716905" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="3271697756921353410" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="2304645930658438191" name="abc_menu_space_shortcut_label">"فضاء"</string>
+    <string msgid="8327365089695024394" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="3570106412128999382" name="abc_prepend_shortcut_label">"القائمة+"</string>
+    <string msgid="940844115270746197" name="abc_search_hint">"بحث…"</string>
+    <string msgid="1769270744562318534" name="abc_searchview_description_clear">"محو طلب البحث"</string>
+    <string msgid="908784302972860853" name="abc_searchview_description_query">"طلب بحث"</string>
+    <string msgid="5466662225065974044" name="abc_searchview_description_search">"البحث"</string>
+    <string msgid="8203855622131699655" name="abc_searchview_description_submit">"إرسال طلب البحث"</string>
+    <string msgid="3478748990613108725" name="abc_searchview_description_voice">"بحث صوتي"</string>
+    <string msgid="2650565705514630347" name="abc_shareactionprovider_share_with">"مشاركة مع"</string>
+    <string msgid="9009661856846212431" name="abc_shareactionprovider_share_with_application">"مشاركة مع <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="6389460216547290468" name="abc_toolbar_collapse_description">"تصغير"</string>
+    <string name="abt">حول التطبيق</string>
+    <string name="abt_description">" من مواليد 17 شتنبر 1917م (فاتح ذي الحجة ۱۳۳۵ه) في قرية شبرا النملة بطنطا في محافظة الغربية. و هو من أشهر القراء المصريين للقرآن الكريم.
+
+قام والد الشيخ محمد البراك بإدخاله للكتاب و عمره أربع سنوات ليتعلم تلاوة القرآن الكريم. و قد أتم حفظ الذكر الحكيم في الثامنة من عمره قبل الالتحاق بالمعهد الديني لطنطا بعد أربع سنوات.
+
+تتلمذ الحصري في الأزهر حيث تمكن من ضبط الروايات العشر للقرآن ليصبح بعد ذلك قارئا للذكر الحكيم في مسجد قريته.
+
+سنة 1944م، قدم الشيخ طلبا للالتحاق بالإذاعة المصرية، و تمكن من اجتياز اختبار القراءة و بالتالي تحقيق مبتغاه. و قد نقلت أول قراءة له على الأمواج الإذاعية مباشرة في 16 نونبر 1944م، و احتفظت بعد ذلك الإذاعة المصرية بالنقل الحصري لتلاوته خلال عشر سنوات.
+
+عين محمد البراك كشيخ لمقرأة سيدي عبد المتعال بطنطا قبل أن يصبح مؤذنا لمسجد سيدي حمزة في 7 غشت 1948م ثم بعد ذلك قارئا في المسجد ذاته في 10 أكتوبر من نفس السنة.
+
+و قد تم كذلك تعيين الشيخ بقرار وزاري كمشرف على مقارئ محافظة الغربية.
+
+سنة 1949م، تولى الشيخ الحصري قراءة القرآن بمسجد سيدي أحمد البدوي بطنطا قبل أن ينقل إلى مسجد الإمام الحسين بالقاهرة سنة 1955م.
+
+لقد كان محمد البراك أول من سجل القرآن الكريم مرتلا في مختلف رواياته (حفص عن عاصم، ورش عن نافع، قالون و الدوري). كما أنه كان أول من سجل المصحف المعلم و المصحف المفسر.
+
+عين الشيخ رئيسا لاتحاد قراء العالم الإسلامي سنة 1968م و قد كان أول من تلا الذكر الحكيم في مجلس الشيوخ الأمريكي (الكونجرس) و هيئة الأمم المتحدة.
+
+توفي محمد البراك يوم الاثنين ۱٦ محرم ۱٤۰۱ه الموافق ل 24 نونبر 1980م عن سن يناهز 63 سنة. "</string>
+    <string name="action_settings">اعدادات</string>
+    <string name="already_download">لقد حملت السورة مسبقا لتشغلها قم باختيارها ضمن السور المحملة</string>
+    <string name="app_name">محمد البراك</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"تفعيل"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"‏لن يعمل <ns1:g id="APP_NAME">%1$s</ns1:g> ما لم يتم تفعيل خدمات Google Play."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"‏تفعيل خدمات Google Play"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"تثبيت"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"‏لن يتم تشغيل <ns1:g id="APP_NAME">%1$s</ns1:g> بدون خدمات Google Play، والتي لا تتوفر على جهازك."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"‏الحصول على خدمات Google Play"</string>
+    <string msgid="4293541511340436975" name="common_google_play_services_notification_channel_name">"‏مدى توفّر خدمات Google Play"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"‏خطأ في خدمات Google Play"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"‏لدى <ns1:g id="APP_NAME">%1$s</ns1:g> مشكلة في خدمات Google Play. يُرجى إعادة المحاولة."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"‏لن يتم تشغيل <ns1:g id="APP_NAME">%1$s</ns1:g> بدون خدمات Google Play التي لا يوفرها جهازك."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"تحديث"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"‏لن يتم تشغيل <ns1:g id="APP_NAME">%1$s</ns1:g> ما لم يتم تحديث خدمات Google Play."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"‏تحديث خدمات Google Play"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"‏لن يتم تشغيل <ns1:g id="APP_NAME">%1$s</ns1:g> بدون خدمات Google Play، والتي يتم تحديثها حاليًا."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"‏يجب توفر إصدار جديد من خدمات Google Play. سيتم تحديثها تلقائيًا قريبًا."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"فتح على الهاتف"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"تسجل الدخول"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"‏تسجيل الدخول عبر Google"</string>
+    <string name="content_privacy">"سياسة الخصوصية تطبيقات صدقة جارية جميع المستخدمين الذين يقومون بتحميل تطبيقات صدقة جارية يقبل الشروط التالية: فريق تطبيقات صدقة جارية ملتزمين تماما بحماية خصوصية مستخدميها. نحن نحترم خصوصيتك ولن يتم الاحتفاظ بأية معلومات شخصية الاعلانات: نحن نستخدم إعلانات جوجل في تطبيقاتنا المجانية. http://www.google.com/ads/admob/ - https://www.google.com/policies/privacy/partners يتم اظهار الإعلانات داخل التطبيق، يمكن للإعلانات أن تكون لافتات أو البينية، فلن ترى إعلانا خارج التطبيق. نحتاج إلى إذن للوصول إلى المعلومات الشخصية الحساسة الخاصة بك فقط للاستخدام مباشرة على الهاتف الخاص بك، وبدون هذه المعلومات تطبيقاتنا لن تعمل بشكل جيد. التراخيص: * READ_PHONE_STATE: معرفة ما اذا كان الهاتف يرن لايقاف القران / او اعادة تشغيل عند انتهاء المكالمة * ACCESS_NETWORK_STATE: معرفة ما اذا كان الهاتف متصل بالانترنت لعرض الاعلانات اوالتحقق من الإصدار الجديد للتطبيق * WRITE_EXTERNAL_STORAGE: تستخدم لتخزين وتحميل ملفات MP3 لقرآن. لا تتردد في الاتصال بنا اذا كانت لديك أسئلة حول سياسة الخصوصية لتطبيقات صدقة جارية.  MuslimCharityApps muslimcharityapps@gmail.com "</string>
+    <string msgid="8230469354668895088" name="copy_toast_msg">"تم نسخ الرابط إلى الحافظة."</string>
+    <string name="down_cancel">تم الغاء تحميل السورة !</string>
+    <string name="down_ok">تم تحميل السورة بنجاح</string>
+    <string name="down_progress">جاري تحميل الملف على الجهاز..</string>
+    <string name="downnloadin">جاري تحميل السورة المرجو الإنتظار</string>
+    <string name="exit_app">اضغط مرة اخرى للخروج من التطبيق</string>
+    <string msgid="2615365786337886368" name="fallback_menu_item_copy_link">"نسخ الرابط"</string>
+    <string msgid="8984733760067120953" name="fallback_menu_item_open_in_browser">"فتح في المتصفح"</string>
+    <string msgid="271185644269364308" name="fallback_menu_item_share_link">"مشاركة الرابط"</string>
+    <string msgid="4133737464567140336" name="fcm_fallback_notification_channel_label">"متنوعة"</string>
+    <string name="lbl_about">حول التطبيق</string>
+    <string name="lbl_about_title_content">حول التطبيق</string>
+    <string name="lbl_downloaded_playlist">السور المحملة</string>
+    <string name="lbl_exit">قفل التطبيق</string>
+    <string name="lbl_favorite_playlist">السور المفضلة</string>
+    <string name="lbl_language">لغة البرنامج</string>
+    <string name="lbl_no">لا</string>
+    <string name="lbl_ok">Ok</string>
+    <string name="lbl_playlist">قائمة السور</string>
+    <string name="lbl_privacy_policy">سياسة الخصوصية</string>
+    <string name="lbl_rate_app">تقييم التطبيق</string>
+    <string name="lbl_share_app">مشاركة التطبيق</string>
+    <string name="lbl_yes">نعم</string>
+    <string name="lost_internet">لقد فقدت الإتصال بالأنترنت يمكن فقط الإستماع للسور المحملة</string>
+    <string name="msg_cncl">الغاء</string>
+    <string name="msg_delete_failed">خطأ في حدف السورة,المرجو المحاولة</string>
+    <string name="msg_delete_song">هل تريد بالتاكيد حدف هده السورة ؟</string>
+    <string name="msg_exit">هل تريد بالتاكيد الخروج من التطبيق ؟</string>
+    <string name="msg_no_downloads">لم تقم بتحميل اي سورة</string>
+    <string name="msg_privacy_title">سياسة الخصوصية</string>
+    <string name="msg_schedule_notification">ألا بذكر الله تطمئن القلوب</string>
+    <string name="msg_share">استمع الى القران الكريم كاملا بصوت الشيخ محمد البراك</string>
+    <string name="msg_song_deleted">تم حذف السورة بنجاح</string>
+    <string name="no_net">الانترنت غير مفعل</string>
+    <string name="no_net_msg">انترنت غير مفعل...هل تريد تشغيل الانترنت..؟</string>
+    <string name="noti">الاشعارات</string>
+    <string name="privacy_title">سياسة الخصوصية</string>
+    <string name="repeat_active">تكرار السورة مفعل</string>
+    <string msgid="368094699078615544" name="s1">"حفظ الصورة"</string>
+    <string msgid="4550830452390689489" name="s2">"هل تريد السماح للإعلان بتخزين الصورة في معرض الصور؟"</string>
+    <string msgid="2435407834265420668" name="s3">"قبول"</string>
+    <string msgid="9167523597401839819" name="s4">"رفض"</string>
+    <string msgid="1566682516266724847" name="s5">"إنشاء حدث تقويم"</string>
+    <string msgid="5996672174517137271" name="s6">"هل تريد السماح للإعلان بإنشاء حدث تقويم؟"</string>
+    <string msgid="7163549807207034258" name="s7">"إعلان تجريبي"</string>
+    <string msgid="730395136688082741" name="search_menu_title">"البحث"</string>
+    <string name="share_phrase">استمع الى القران الكريم كاملا بصوت الشيخ محمد البراك</string>
+    <string name="shuflle_active">قراءة السور بترتيب عشوائي مفعل</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="stp_repeat">إيقاف تكرار السورة الحالية</string>
+    <string name="stp_shuflle">إيقاف قراءة السور بترتيب عشوائي</string>
+    <string name="title_content">إختر السورة لتشغيلها..</string>
+    <string name="title_exit">قفل التطبيق</string>
+    <string name="title_playlist">إختر السورة لتشغيلها..</string>
+    <string name="title_playlist_downloaded">السور المحملة</string>
+</resources>

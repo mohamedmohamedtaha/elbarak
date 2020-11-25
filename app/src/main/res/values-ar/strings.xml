@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lbl_playlist">قائمة السور</string>
+    <string name="lbl_downloaded_playlist">السور المحملة</string>
+    <string name="lbl_about">حول التطبيق</string>
+    <string name="lbl_share_app">مشاركة التطبيق</string>
+    <string name="lbl_rate_app">تقييم التطبيق</string>
+    <string name="lbl_privacy_policy">سياسة الخصوصية</string>
+    <string name="msg_no_downloads">لم تقم بتحميل اي سورة</string>
+    <string name="title_playlist">إختر السورة لتشغيلها..</string>
+    <string name="title_content">إختر السورة لتشغيلها..</string>
+    <string name="title_playlist_downloaded">السور المحملة</string>
+    <string name="lbl_about_title_content">حول التطبيق</string>
+    <string name="msg_share">استمع الى القران الكريم كاملا بصوت الشيخ محمد البراك</string>
+    <string name="msg_privacy_title">سياسة الخصوصية</string>
+    <string name="content_privacy">"سياسة الخصوصية تطبيقات صدقة جارية جميع المستخدمين الذين يقومون بتحميل تطبيقات صدقة جارية يقبل الشروط التالية: فريق تطبيقات صدقة جارية ملتزمين تماما بحماية خصوصية مستخدميها. نحن نحترم خصوصيتك ولن يتم الاحتفاظ بأية معلومات شخصية الاعلانات: نحن نستخدم إعلانات جوجل في تطبيقاتنا المجانية. http://www.google.com/ads/admob/ - https://www.google.com/policies/privacy/partners يتم اظهار الإعلانات داخل التطبيق، يمكن للإعلانات أن تكون لافتات أو البينية، فلن ترى إعلانا خارج التطبيق. نحتاج إلى إذن للوصول إلى المعلومات الشخصية الحساسة الخاصة بك فقط للاستخدام مباشرة على الهاتف الخاص بك، وبدون هذه المعلومات تطبيقاتنا لن تعمل بشكل جيد. التراخيص: * READ_PHONE_STATE: معرفة ما اذا كان الهاتف يرن لايقاف القران / او اعادة تشغيل عند انتهاء المكالمة * ACCESS_NETWORK_STATE: معرفة ما اذا كان الهاتف متصل بالانترنت لعرض الاعلانات اوالتحقق من الإصدار الجديد للتطبيق * WRITE_EXTERNAL_STORAGE: تستخدم لتخزين وتحميل ملفات MP3 لقرآن. لا تتردد في الاتصال بنا اذا كانت لديك أسئلة حول سياسة الخصوصية لتطبيقات صدقة جارية.  MuslimCharityApps muslimcharityapps@gmail.com "</string>
+    <string name="msg_delete_song">هل تريد بالتاكيد حدف هده السورة ؟</string>
+    <string name="msg_song_deleted">تم حذف السورة بنجاح</string>
+    <string name="msg_delete_failed">خطأ في حدف السورة,المرجو المحاولة</string>
+    <string name="lbl_favorite_playlist">السور المفضلة</string>
+
+    <string-array name="array_songs">
+        <item> الفاتحة </item>
+        <item> يوسف </item>
+        <item> يس </item>
+        <item> الصافات</item>
+        <item> الدّخان </item>
+        <item> الجاثية </item>
+        <item> سورة  ق</item>
+        <item> الذاريات </item>
+        <item> الطور </item>
+        <item> النجم </item>
+        <item> القمر</item>
+        <item> الرحمن </item>
+        <item> الواقعة </item>
+        <item> الحديد </item>
+        <item> الملك </item>
+        <item> القلم </item>
+        <item> الحاقة </item>
+        <item> المعارج</item>
+        <item> نوح </item>
+        <item> الجن </item>
+        <item> المزمل </item>
+        <item> المدثر </item>
+        <item> القيامة </item>
+        <item> الإنسان </item>
+        <item> المرسلات </item>
+        <item> النبأ</item>
+        <item> النازعات </item>
+        <item> عبس </item>
+        <item> التكوير </item>
+        <item> الإنفطار</item>
+        <item> المطففين </item>
+        <item> الإنشقاق </item>
+        <item> البروج </item>
+        <item> الطارق</item>
+        <item> الأعلى </item>
+        <item> الغاشية </item>
+        <item> الفجر </item>
+        <item> البلد</item>
+        <item> الشمس </item>
+        <item> الليل </item>
+        <item> الضحى </item>
+        <item> الشرح</item>
+        <item> التين </item>
+        <item> العلق </item>
+        <item> القدر </item>
+        <item> البينة</item>
+        <item> الزلزلة </item>
+        <item> العاديات </item>
+        <item> القارعة </item>
+        <item> التكاثر</item>
+        <item> العصر </item>
+        <item> الهمزة </item>
+        <item> الفيل </item>
+        <item> قريش</item>
+        <item> الماعون </item>
+        <item> الكوثر </item>
+        <item> الكافرون </item>
+        <item> النصر</item>
+        <item> المسد </item>
+        <item> الإخلاص </item>
+        <item> الفلق </item>
+        <item> الناس</item>
+    </string-array>
+    <string name="lbl_language">لغة البرنامج</string>
+    <string name="lbl_exit">قفل التطبيق</string>
+    <string name="title_exit">قفل التطبيق</string>
+    <string name="msg_exit">هل تريد بالتاكيد الخروج من التطبيق ؟</string>
+    <string name="exit_app">اضغط مرة اخرى للخروج من التطبيق</string>
+
+    <string name="lbl_yes">نعم</string>
+    <string name="lbl_no">لا</string>
+    <string name="app_name">محمد البراك</string>
+    <string name="noti">الاشعارات</string>
+    <string name="abt">حول التطبيق</string>
+    <string name="action_settings">اعدادات</string>
+    <string name="down_progress">جاري تحميل الملف على الجهاز..</string>
+    <string name="msg_cncl">الغاء</string>
+    <string name="down_cancel">تم الغاء تحميل السورة !</string>
+    <string name="no_net">الانترنت غير مفعل</string>
+    <string name="no_net_msg">انترنت غير مفعل...هل تريد تشغيل الانترنت..؟</string>
+    <string name="privacy_title">سياسة الخصوصية</string>
+    <string name="down_ok">تم تحميل السورة بنجاح</string>
+    <string name="repeat_active">تكرار السورة مفعل</string>
+    <string name="stp_repeat">إيقاف تكرار السورة الحالية</string>
+    <string name="stp_shuflle">إيقاف قراءة السور بترتيب عشوائي</string>
+    <string name="shuflle_active">قراءة السور بترتيب عشوائي مفعل</string>
+    <string name="already_download">لقد حملت السورة مسبقا لتشغلها قم باختيارها ضمن السور المحملة</string>
+    <string name="downnloadin">جاري تحميل السورة المرجو الإنتظار</string>
+    <string name="lost_internet">لقد فقدت الإتصال بالأنترنت يمكن فقط الإستماع للسور المحملة</string>
+    <string name="abt_description">" من مواليد 17 شتنبر 1917م (فاتح ذي الحجة ۱۳۳۵ه) في قرية شبرا النملة بطنطا في محافظة الغربية. و هو من أشهر القراء المصريين للقرآن الكريم.
+
+قام والد الشيخ محمد البراك بإدخاله للكتاب و عمره أربع سنوات ليتعلم تلاوة القرآن الكريم. و قد أتم حفظ الذكر الحكيم في الثامنة من عمره قبل الالتحاق بالمعهد الديني لطنطا بعد أربع سنوات.
+
+تتلمذ الحصري في الأزهر حيث تمكن من ضبط الروايات العشر للقرآن ليصبح بعد ذلك قارئا للذكر الحكيم في مسجد قريته.
+
+سنة 1944م، قدم الشيخ طلبا للالتحاق بالإذاعة المصرية، و تمكن من اجتياز اختبار القراءة و بالتالي تحقيق مبتغاه. و قد نقلت أول قراءة له على الأمواج الإذاعية مباشرة في 16 نونبر 1944م، و احتفظت بعد ذلك الإذاعة المصرية بالنقل الحصري لتلاوته خلال عشر سنوات.
+
+عين محمد البراك كشيخ لمقرأة سيدي عبد المتعال بطنطا قبل أن يصبح مؤذنا لمسجد سيدي حمزة في 7 غشت 1948م ثم بعد ذلك قارئا في المسجد ذاته في 10 أكتوبر من نفس السنة.
+
+و قد تم كذلك تعيين الشيخ بقرار وزاري كمشرف على مقارئ محافظة الغربية.
+
+سنة 1949م، تولى الشيخ الحصري قراءة القرآن بمسجد سيدي أحمد البدوي بطنطا قبل أن ينقل إلى مسجد الإمام الحسين بالقاهرة سنة 1955م.
+
+لقد كان محمد البراك أول من سجل القرآن الكريم مرتلا في مختلف رواياته (حفص عن عاصم، ورش عن نافع، قالون و الدوري). كما أنه كان أول من سجل المصحف المعلم و المصحف المفسر.
+
+عين الشيخ رئيسا لاتحاد قراء العالم الإسلامي سنة 1968م و قد كان أول من تلا الذكر الحكيم في مجلس الشيوخ الأمريكي (الكونجرس) و هيئة الأمم المتحدة.
+
+توفي محمد البراك يوم الاثنين ۱٦ محرم ۱٤۰۱ه الموافق ل 24 نونبر 1980م عن سن يناهز 63 سنة. "</string>
+    <string name="share_phrase">استمع الى القران الكريم كاملا بصوت الشيخ محمد البراك</string>
+    <string name="msg_schedule_notification">ألا بذكر الله تطمئن القلوب</string>
+    <string name="lbl_ok">Ok</string>
+</resources>

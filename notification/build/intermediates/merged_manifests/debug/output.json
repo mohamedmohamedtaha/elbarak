@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "applicationId": "com.gitonway.lee.niftymodaldialogeffects.lib",
+  "variantType": "LIBRARY",
+  "elements": [
+    {
+      "outputType": {
+        "type": "MERGED_MANIFESTS"
+      },
+      "apkData": {
+        "type": "MAIN",
+        "splits": [],
+        "versionCode": -1,
+        "outputFile": "notification-debug.aar",
+        "fullName": "debug",
+        "baseName": "debug",
+        "dirName": ""
+      },
+      "path": "../../library_manifest/debug/AndroidManifest.xml",
+      "properties": {
+        "packageId": "com.gitonway.lee.niftymodaldialogeffects.lib",
+        "split": ""
+      }
+    }
+  ]
+}

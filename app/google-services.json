@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "160394330329",
+    "firebase_url": "https://albarak-5d628.firebaseio.com",
+    "project_id": "albarak-5d628",
+    "storage_bucket": "albarak-5d628.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160394330329:android:a337e9f47efaac92",
+        "android_client_info": {
+          "package_name": "com.muslimcharityapps.elbarak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "160394330329-asef1pcnruao6g09c92ike0spb4omt8q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8p8MwMJ-iCc1Y1JJXBQ1JkEHyaEMW3uI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "160394330329-asef1pcnruao6g09c92ike0spb4omt8q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,40 @@
+com/gitonway/lee/niftymodaldialogeffects/lib/effects/BaseEffects.java
+ com.gitonway.lee.niftymodaldialogeffects.lib.effects.BaseEffects
+com/gitonway/lee/niftymodaldialogeffects/lib/NiftyDialogBuilder.java
+ com.gitonway.lee.niftymodaldialogeffects.lib.NiftyDialogBuilder
+ com.gitonway.lee.niftymodaldialogeffects.lib.NiftyDialogBuilder$1
+ com.gitonway.lee.niftymodaldialogeffects.lib.NiftyDialogBuilder$2
+com/gitonway/lee/niftymodaldialogeffects/lib/effects/NewsPaper.java
+ com.gitonway.lee.niftymodaldialogeffects.lib.effects.NewsPaper
+com/gitonway/lee/niftymodaldialogeffects/lib/effects/FlipV.java
+ com.gitonway.lee.niftymodaldialogeffects.lib.effects.FlipV
+com/gitonway/lee/niftymodaldialogeffects/lib/ColorUtils.java
+ com.gitonway.lee.niftymodaldialogeffects.lib.ColorUtils
+com/gitonway/lee/niftymodaldialogeffects/lib/effects/Shake.java
+ com.gitonway.lee.niftymodaldialogeffects.lib.effects.Shake
+com/gitonway/lee/niftymodaldialogeffects/lib/effects/SlideRight.java
+ com.gitonway.lee.niftymodaldialogeffects.lib.effects.SlideRight
+com/gitonway/lee/niftymodaldialogeffects/lib/effects/SideFall.java
+ com.gitonway.lee.niftymodaldialogeffects.lib.effects.SideFall
+com/gitonway/lee/niftymodaldialogeffects/lib/Effectstype.java
+ com.gitonway.lee.niftymodaldialogeffects.lib.Effectstype
+com/gitonway/lee/niftymodaldialogeffects/lib/effects/Slit.java
+ com.gitonway.lee.niftymodaldialogeffects.lib.effects.Slit
+com/gitonway/lee/niftymodaldialogeffects/lib/effects/RotateLeft.java
+ com.gitonway.lee.niftymodaldialogeffects.lib.effects.RotateLeft
+com/gitonway/lee/niftymodaldialogeffects/lib/effects/Fall.java
+ com.gitonway.lee.niftymodaldialogeffects.lib.effects.Fall
+com/gitonway/lee/niftymodaldialogeffects/lib/effects/RotateBottom.java
+ com.gitonway.lee.niftymodaldialogeffects.lib.effects.RotateBottom
+com/gitonway/lee/niftymodaldialogeffects/lib/effects/FadeIn.java
+ com.gitonway.lee.niftymodaldialogeffects.lib.effects.FadeIn
+com/gitonway/lee/niftymodaldialogeffects/lib/effects/SlideTop.java
+ com.gitonway.lee.niftymodaldialogeffects.lib.effects.SlideTop
+com/gitonway/lee/niftymodaldialogeffects/lib/effects/SlideBottom.java
+ com.gitonway.lee.niftymodaldialogeffects.lib.effects.SlideBottom
+com/gitonway/lee/niftymodaldialogeffects/lib/effects/SlideLeft.java
+ com.gitonway.lee.niftymodaldialogeffects.lib.effects.SlideLeft
+com/gitonway/lee/niftymodaldialogeffects/lib/BuildConfig.java
+ com.gitonway.lee.niftymodaldialogeffects.lib.BuildConfig
+com/gitonway/lee/niftymodaldialogeffects/lib/effects/FlipH.java
+ com.gitonway.lee.niftymodaldialogeffects.lib.effects.FlipH

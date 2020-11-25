@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/item_height"
+    android:layout_marginLeft="@dimen/image_margin"
+    android:layout_marginRight="@dimen/image_margin"
+    android:layout_marginTop="@dimen/image_margin"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:id="@+id/llPlay"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:background="#6AC159"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="@dimen/image_width"
+                android:layout_height="@dimen/image_height"
+                android:scaleType="center"
+                android:src="@drawable/play_white" />
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/item_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_marginTop="@dimen/item_detail_text_marginTop"
+            android:textSize="@dimen/image_name_text_size" />
+
+        <com.muslimcharityapps.elbarak.rxdownload.SongDownloaderIconView
+            android:id="@+id/icon_image_download"
+            android:layout_width="@dimen/icon_image_download_width"
+            android:layout_height="@dimen/icon_image_download_height"
+            android:layout_centerInParent="true"
+            android:layout_alignParentRight="true"
+            android:src="@drawable/pending" />
+
+    </RelativeLayout>
+
+</androidx.cardview.widget.CardView>
